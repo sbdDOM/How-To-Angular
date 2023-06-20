@@ -1,0 +1,5 @@
+#Some notes and tips on how to use angular.
+
+After installing angular cli on my local computer with:
+npm install -g @angular/cli
+
